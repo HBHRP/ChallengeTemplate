@@ -8,7 +8,7 @@
 1. Fork this repo
 2. Rename it to something sane. Don't panic about numbering, just give it a meaningful name.
 3. Hack hack hack. It will probably work in your favour to do your hax on a topic branch. Feel free to reset the default HEAD on github to point to your branch. Or hack at master, just be prepared to be asked to rebase in that case.
-4. Developers are encouraged to replace README.md (this file) with a Markdown-styled readme that contains information about their security challenge. See [https://github.com/HBHRP/ChallengeTemplate/tree/master/doc/README.md.new](README.md.new) for a template that you could use.
+4. Developers are encouraged to replace README.md (this file) with a Markdown-styled readme that contains information about their security challenge. See [README.md.new](https://github.com/HBHRP/ChallengeTemplate/tree/master/doc/README.md.new) for a template that you could use.
 5. When you think it's good, submit a pull request to the origin.
 
 ### Merge procedure
