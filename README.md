@@ -18,7 +18,8 @@
 
 ###FAQ###
 
-1. Q. Why all the git hackery?
-   A. Pretty much because we can. And because git is awesome and makes doing things like this not a terrible idea.
+1. 
+   * Q. Why all the git hackery?
+   * A. Pretty much because we can. And because git is awesome and makes doing things like this not a terrible idea.
 
 ###Common Problems###
