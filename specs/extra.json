@@ -1,0 +1,54 @@
+{ "research": {
+        "pre": {
+                "literature": {
+                        "book": {
+                                "title": "book title",
+                                "isbn": "isbn number",
+                                "author": "author",
+                                "uri": "uri"
+                                },
+
+                        "article": {
+                                "free": true,
+                                "title": "article title",
+                                "uri": "article uri"
+                                }
+                },
+
+
+                "media": {
+                        "free": true,
+                        "title": "media title",
+                        "uri": "uri",
+                        "type": "video"
+                }
+
+        },
+
+        "post": {
+                "literature": {
+                        "book": {
+                                "title": "book title",
+                                "isbn": "isbn number",
+                                "author": "author",
+                                "uri": "uri"
+                                },
+
+                        "article": {
+                                "free": true,
+                                "title": "article title",
+                                "uri": "article uri"
+                                }
+                },
+
+                "media": {
+                        "free": true,
+                        "title": "media title",
+                        "uri": "uri",
+                        "type": "video"
+                }
+
+
+        }
+}
+}

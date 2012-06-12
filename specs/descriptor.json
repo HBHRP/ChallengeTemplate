@@ -1,0 +1,37 @@
+{"challenge": {
+
+	"title": "Challenge Title",
+        "shortdescription": "challenge description",
+	"longdescription": "longer challenge description",
+        "tags": ["tag1", "tag2"],
+	"difficulty": 0,
+	
+	"subject": {
+		"language": ["programming language"],
+		"os": ["OS"],
+		"technique": ["technique 1", "technique 2"],
+		"type": "challenge type"
+	},
+		
+	"requirements": {
+		"archicture": "x86",		
+		"os": ["OS"],
+		"technique": ["technique 1", "technique 2"],
+		"software": ["software 1", "software 2"],
+		"hardware": ["hardware 1", "hardware 2"],
+		"extra": true,
+		"extradata": "extra.json"
+	}
+},
+
+"maintainer": {
+	"maintained": true,
+	"firstname": "name",
+        "lastname": "lastname",
+        "nickname": "nickname",
+        "website": "website uri",
+        "repository": "repository uri",
+        "email": "email address"
+	}	
+}
+
