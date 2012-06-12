@@ -10,11 +10,11 @@
 		"language": ["programming language"],
 		"os": ["OS"],
 		"technique": ["technique 1", "technique 2"],
-		"type": "challenge type"
+		"type": ["type 1", "type 2"]
 	},
 		
 	"requirements": {
-		"archicture": "x86",		
+		"architecture": "x86",		
 		"os": ["OS"],
 		"technique": ["technique 1", "technique 2"],
 		"software": ["software 1", "software 2"],
@@ -25,7 +25,6 @@
 },
 
 "maintainer": {
-	"maintained": true,
 	"firstname": "name",
         "lastname": "lastname",
         "nickname": "nickname",
