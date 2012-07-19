@@ -3,6 +3,7 @@ void function(int a, int b, int c) {
    char buffer2[10];
 }
 
-void main() {
+int main(int argc, char **argv) {
   function(1,2,3);
+  return 0;
 }
